@@ -1,6 +1,5 @@
 # Project Thalor
 
-> "Phyrexia Sees All - But Rewards Only the Worthy."
 
 Deep beneath the shattered plane of Mirrodin, in the rusted bones of the Oxidda Chain,  
 a winged horror waits. A relic of contagion.  
@@ -9,7 +8,7 @@ It flies not with wind, but with the will of the Machine Orthodoxy.
 
 ---
 
-##  Instructions for Planeswalkers
+##  Instructions
 
 In this repository is a file: `secret.txt`  
 It contains no truth… until the right mind infects it with understanding.
@@ -18,7 +17,7 @@ Fragments lie within
 Each four symbols long.
 Some true, some not. Every third step, a lie is stitched.
 
-Their order? It once flew across the chain like this:  
+It once flew across the chain like this:  
 **3, 7, 0, 6, 2, 5, 4, 1, 8, 9, 10, 11, 12, 13, 14**
 
 Every second wingbeat,twisted.  
